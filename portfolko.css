@@ -1,0 +1,242 @@
+
+
+.nadpis{
+    color: rgb(101, 7, 79);
+    margin: 2cm;
+    background-color: #e67a96;
+    padding: 27px;
+}
+
+.odkazy{
+    color: aqua;
+}
+
+.bum{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 20px;
+    width: 1350px;
+    height: 70px;
+    background-color: #e67a96;
+    padding: 13px;
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.hra{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 20px;
+    width: 400px;
+    height: 550px;
+    background-color: #e67a96;
+    padding: 13px;
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.hry{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.knihy{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 20px;
+    width: 400px;
+    height: 550px;
+    background-color: #e67a96;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    transition-duration: 300ms;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.links{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;  
+}
+
+.link{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    font-size: 17px;
+    width: 90px;
+    height: 25px;
+    background-color: #e67a96;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    transition-duration: 300ms;  
+}
+
+body{
+    background-color: #f5b3c4;
+    
+}
+
+.text {
+    border:solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 20px;
+    width: 1370px;
+    height: 150px;
+    background-color: #e67a96;
+    padding: 10px;
+    border-radius: 6px;
+    color: rgb(101, 7, 79);
+    
+}
+
+.obrazky{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.obrazek{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    background-color: #e67a96;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;  
+    font-size: 25px; 
+}
+
+.nadpisek{
+    color: rgb(101, 7, 79);
+    font-size: 27px;
+}
+
+.diplom{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 25px;
+    width: 600px;
+    height: 800px;
+    background-color: #e67a96;
+    padding: 13px;
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.diplomy{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.diplom-4{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 25px;
+    width: 800px;
+    height: 800px;
+    background-color: #e67a96;
+    padding: 13px;
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px; 
+}
+
+.pop{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    font-size: 17px;
+    width: 150px;
+    height: 70px;
+    background-color: #e67a96;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    transition-duration: 300ms;  
+    margin-top: 10px;
+}
+
+.br{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center; 
+}
+
+.a{
+    color: rgb(101, 7, 79);
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    font-size: 20px;
+    width: 350px;
+    height: 5é0px;
+    background-color: #e67a96;
+    padding: 13px;
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px; 
+    margin-top: 10px;
+}
+
